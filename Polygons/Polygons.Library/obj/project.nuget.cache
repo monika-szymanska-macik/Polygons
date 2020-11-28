@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QvMEZFrs8jtle8HWD+k4H5jQ9n++EsLMqr/JnWx3YKKbj3DUDAGeJaSxr9bXHD9gvX8e5oWHcREzQ8/GZ/JAdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\monik\\source\\repos\\Polygons\\Polygons\\Polygons.Library\\Polygons.Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\monik\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\monik\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
