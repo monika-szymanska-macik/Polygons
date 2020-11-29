@@ -1,0 +1,16 @@
+C:\Users\monik\source\repos\Polygons\Polygons\Polygons\bin\Debug\netcoreapp3.1\Polygons.exe
+C:\Users\monik\source\repos\Polygons\Polygons\Polygons\bin\Debug\netcoreapp3.1\Polygons.deps.json
+C:\Users\monik\source\repos\Polygons\Polygons\Polygons\bin\Debug\netcoreapp3.1\Polygons.runtimeconfig.json
+C:\Users\monik\source\repos\Polygons\Polygons\Polygons\bin\Debug\netcoreapp3.1\Polygons.runtimeconfig.dev.json
+C:\Users\monik\source\repos\Polygons\Polygons\Polygons\bin\Debug\netcoreapp3.1\Polygons.dll
+C:\Users\monik\source\repos\Polygons\Polygons\Polygons\bin\Debug\netcoreapp3.1\Polygons.pdb
+C:\Users\monik\source\repos\Polygons\Polygons\Polygons\bin\Debug\netcoreapp3.1\Polygons.Library.dll
+C:\Users\monik\source\repos\Polygons\Polygons\Polygons\bin\Debug\netcoreapp3.1\Polygons.Library.pdb
+C:\Users\monik\source\repos\Polygons\Polygons\Polygons\obj\Debug\netcoreapp3.1\Polygons.csprojAssemblyReference.cache
+C:\Users\monik\source\repos\Polygons\Polygons\Polygons\obj\Debug\netcoreapp3.1\Polygons.AssemblyInfoInputs.cache
+C:\Users\monik\source\repos\Polygons\Polygons\Polygons\obj\Debug\netcoreapp3.1\Polygons.AssemblyInfo.cs
+C:\Users\monik\source\repos\Polygons\Polygons\Polygons\obj\Debug\netcoreapp3.1\Polygons.csproj.CoreCompileInputs.cache
+C:\Users\monik\source\repos\Polygons\Polygons\Polygons\obj\Debug\netcoreapp3.1\Polygons.csproj.CopyComplete
+C:\Users\monik\source\repos\Polygons\Polygons\Polygons\obj\Debug\netcoreapp3.1\Polygons.dll
+C:\Users\monik\source\repos\Polygons\Polygons\Polygons\obj\Debug\netcoreapp3.1\Polygons.pdb
+C:\Users\monik\source\repos\Polygons\Polygons\Polygons\obj\Debug\netcoreapp3.1\Polygons.genruntimeconfig.cache

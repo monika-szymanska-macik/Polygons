@@ -4,7 +4,11 @@ using System.Text;
 
 namespace Polygons.Library
 {
-    interface IRegularPolygon
+    public interface IRegularPolygon
     {
+        int NumberOfSides { get; set; }
+        int SideLength { get; set; }
+        double GetPerimeter();
+        double GetArea();
     }
 }

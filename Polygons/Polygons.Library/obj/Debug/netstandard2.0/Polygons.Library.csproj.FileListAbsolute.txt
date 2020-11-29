@@ -1,0 +1,9 @@
+C:\Users\monik\source\repos\Polygons\Polygons\Polygons.Library\bin\Debug\netstandard2.0\Polygons.Library.deps.json
+C:\Users\monik\source\repos\Polygons\Polygons\Polygons.Library\bin\Debug\netstandard2.0\Polygons.Library.dll
+C:\Users\monik\source\repos\Polygons\Polygons\Polygons.Library\bin\Debug\netstandard2.0\Polygons.Library.pdb
+C:\Users\monik\source\repos\Polygons\Polygons\Polygons.Library\obj\Debug\netstandard2.0\Polygons.Library.csprojAssemblyReference.cache
+C:\Users\monik\source\repos\Polygons\Polygons\Polygons.Library\obj\Debug\netstandard2.0\Polygons.Library.AssemblyInfoInputs.cache
+C:\Users\monik\source\repos\Polygons\Polygons\Polygons.Library\obj\Debug\netstandard2.0\Polygons.Library.AssemblyInfo.cs
+C:\Users\monik\source\repos\Polygons\Polygons\Polygons.Library\obj\Debug\netstandard2.0\Polygons.Library.csproj.CoreCompileInputs.cache
+C:\Users\monik\source\repos\Polygons\Polygons\Polygons.Library\obj\Debug\netstandard2.0\Polygons.Library.dll
+C:\Users\monik\source\repos\Polygons\Polygons\Polygons.Library\obj\Debug\netstandard2.0\Polygons.Library.pdb
